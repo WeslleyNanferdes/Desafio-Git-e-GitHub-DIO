@@ -48,8 +48,6 @@ git remote add origin URL
 ```
 
 não sendo necessário modificar o config do git, já que ele já foi configurado.
-> [!NOTE]
-> Essa URL nesse trecho de código será o seu Token ou chave SSH.
 
 ## Clonando Repositórios
 
